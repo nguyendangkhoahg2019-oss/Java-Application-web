@@ -1,0 +1,13 @@
+model\ClassRoom.class
+controller\LoginServlet.class
+com\mycompany\final_project\resources\JakartaEE10Resource.class
+dao\StudentDAO.class
+com\mycompany\final_project\JakartaRestConfiguration.class
+controller\StudentServlet.class
+model\Role.class
+model\Student.class
+controller\LogoutServlet.class
+dao\UserDAO.class
+db\DBContext.class
+model\User.class
+filter\NewFilter.class
